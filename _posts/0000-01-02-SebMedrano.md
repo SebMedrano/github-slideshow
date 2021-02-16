@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-My text text texting textual texmex textex 
+Did not like texmex :+1:
 Use the left arrow to go back!
